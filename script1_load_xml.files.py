@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import os
 
 # Import File
-dir_xml_files = '/home/ccirelli2/Desktop/GSU/gsu_image_processing/Project_1/data/xml'
+dir_xml_files =  # **** Add string of file directory here where xml files are saved 
 os.chdir(dir_xml_files)
 list_files = os.listdir(dir_xml_files)
 
